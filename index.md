@@ -1,5 +1,8 @@
 <%@page contentType="text/html;charset=UTF-8" %>
-<content-type:text/html;charset=utf-8>
+
+<header><content-type:text/html;charset=utf-8>
+
+
 <body onload="sh_highlightDocument();" topmargin="0">﻿<title>网站测试</title>
 <link rel="stylesheet" href="bnuoj.css">
 <link type="text/css" rel="stylesheet" href="sh_style.css">
@@ -20,7 +23,7 @@
 <th class="menu" width="14%"><a href="3.jsp" class="menu"><font style="vertical-align: inherit;">占位3 </font></a></th>
 <th class="menu" width="14%"><a href="4.jsp" class="menu"><font style="vertical-align: inherit;">占位4 </font></a></th>
 <th class="menu" width="14%"><a href="5.jsp" class="menu"><font style="vertical-align: inherit;">占位5</font></a> </th>
-<th class="menu" width="14%"><a href="about.jsp" class="menu"><font style="vertical-align: inherit;">关于  </font></a></th>
+<th class="menu" width="14%"><a href="about.md" class="menu"><font style="vertical-align: inherit;">关于  </font></a></th>
 </tr></tbody></table>
 <hr>
 <script type="text/javascript">
