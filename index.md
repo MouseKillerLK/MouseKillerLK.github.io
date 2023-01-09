@@ -13,7 +13,7 @@
 <script type="text/javascript" src="js/sh_main2.js"></script>
 
 <center><table class="webtop" width="98%">
-<tbody><tr><th width="60%"><img src="6.jpg" name="banner" border="0"><br><font size="2" color="#FFA07A"><font style="vertical-align: inherit;">本网站信息学奥赛一本通复制而来</font></font></th>
+<tbody><tr><th width="60%"><img src="FqAAvKCaMQzZukgjAcp8XX3W7Z_K.png" name="banner" border="0"><br><font size="2" color="#FFA07A"><font style="vertical-align: inherit;">本网站信息学奥赛一本通复制而来</font></font></th>
 <th width="15%" align="left"><font style="vertical-align: inherit;">
 前往Acwing---------------</font><a href="https://www.acwing.com" target="_blank" class="a7"><font style="vertical-align: inherit;">点击跳转</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bilibili.com/video/BV1GJ411x7h7/" target="_blank" class="a7"><font style="vertical-align: inherit;">那种网站 </font></a><br><br><font style="vertical-align: inherit;">
 前往洛谷-------------------   </font><a href="https://www.luogu.com.cn" target="_blank" class="a7"><font style="vertical-align: inherit;">点击跳转</font></a><br><br><font style="vertical-align: inherit;">
