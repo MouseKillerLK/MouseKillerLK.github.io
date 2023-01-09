@@ -1,4 +1,5 @@
 <%@page contentType="text/html;charset=UTF-8" %>
+<content-type:text/html;charset=utf-8>
 <body onload="sh_highlightDocument();" topmargin="0">﻿<title>网站测试</title>
 <link rel="stylesheet" href="bnuoj.css">
 <link type="text/css" rel="stylesheet" href="sh_style.css">
