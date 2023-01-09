@@ -13,7 +13,7 @@
 <script type="text/javascript" src="js/sh_main2.js"></script>
 
 <center><table class="webtop" width="98%">
-<tbody><tr><th width="60%"><img src="5.jpg" name="banner" border="0"><br><font size="2" color="#FFA07A"><font style="vertical-align: inherit;">本网站信息学奥赛一本通复制而来</font></font></th>
+<tbody><tr><th width="60%"><img src="6.jpg" name="banner" border="0"><br><font size="2" color="#FFA07A"><font style="vertical-align: inherit;">本网站信息学奥赛一本通复制而来</font></font></th>
 <th width="15%" align="left"><font style="vertical-align: inherit;">
 前往Acwing---------------</font><a href="https://www.acwing.com" target="_blank" class="a7"><font style="vertical-align: inherit;">点击跳转</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bilibili.com/video/BV1GJ411x7h7/" target="_blank" class="a7"><font style="vertical-align: inherit;">那种网站 </font></a><br><br><font style="vertical-align: inherit;">
 前往洛谷-------------------   </font><a href="https://www.luogu.com.cn" target="_blank" class="a7"><font style="vertical-align: inherit;">点击跳转</font></a><br><br><font style="vertical-align: inherit;">
@@ -22,7 +22,7 @@
 登录系统没做</font><br><a href="login0.php"><font style="vertical-align: inherit;">用户登录 </font></a>&nbsp;&nbsp;<a href="find_pd.php"><font style="vertical-align: inherit;">找回密码 </font></a><br><a href="register.php"><font style="vertical-align: inherit;">注册新用户 </font></a></th></tr></tbody></table>
 <table class="menu" width="98%"><tbody><tr bgcolor="#c8d4f7">
 <th class="menu" width="14%"><a href="index.md" class="menu"><font style="vertical-align: inherit;">首页  </font></a></th>
-<th class="menu" width="14%"><a href="github.com/mousekillerlk/yltc-news" class="menu"><font style="vertical-align: inherit;">雅尔塔海金通讯社</font></a></th>
+<th class="menu" width="14%"><a href="github.com/mousekillerlk/yltc-news" class="menu"><font style="vertical-align: inherit;">占位1</font></a></th>
 <th class="menu" width="14%"><a href="2.jsp" class="menu"><font style="vertical-align: inherit;">占位2</font></a></th>
 <th class="menu" width="14%"><a href="3.jsp" class="menu"><font style="vertical-align: inherit;">占位3 </font></a></th>
 <th class="menu" width="14%"><a href="4.jsp" class="menu"><font style="vertical-align: inherit;">占位4 </font></a></th>
