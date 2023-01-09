@@ -1,5 +1,7 @@
 <%@page contentType="text/html;charset=UTF-8" %>
 
+这个网站出毛病了，屎山代码捋不通了，放假以后我重新搞一个，抱歉了
+
 <header><content-type:text/html;charset=utf-8>
 
 
