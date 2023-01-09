@@ -13,7 +13,7 @@
 <th width="15%"><font style="vertical-align: inherit;">
 登录系统没做</font><br><a href="login0.php"><font style="vertical-align: inherit;">用户登录 </font></a>&nbsp;&nbsp;<a href="find_pd.php"><font style="vertical-align: inherit;">找回密码 </font></a><br><a href="register.php"><font style="vertical-align: inherit;">注册新用户 </font></a></th></tr></tbody></table>
 <table class="menu" width="98%"><tbody><tr bgcolor="#c8d4f7">
-<th class="menu" width="14%"><a href="index.jsp" class="menu"><font style="vertical-align: inherit;">首页  </font></a></th>
+<th class="menu" width="14%"><a href="index.md" class="menu"><font style="vertical-align: inherit;">首页  </font></a></th>
 <th class="menu" width="14%"><a href="1.jsp" class="menu"><font style="vertical-align: inherit;">占位1  </font></a></th>
 <th class="menu" width="14%"><a href="2.jsp" class="menu"><font style="vertical-align: inherit;">占位2</font></a></th>
 <th class="menu" width="14%"><a href="3.jsp" class="menu"><font style="vertical-align: inherit;">占位3 </font></a></th>
