@@ -2,6 +2,8 @@
 
 这个网站出毛病了，屎山代码捋不通了，放假以后我重新搞一个，抱歉了https://github.com/MouseKillerLK
 
+我是金载圭，不是卢泰愚
+
 <header><content-type:text/html;charset=utf-8>
 
 
