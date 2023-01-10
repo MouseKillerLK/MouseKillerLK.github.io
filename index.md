@@ -12,6 +12,10 @@
 <link type="text/css" rel="stylesheet" href="sh_style.css">
 <script type="text/javascript" src="js/sh_main2.js"></script>
 
+ mc模组下载mcbbs.net
+ 基岩版拓展包klpbbs.com
+   请自行探索
+   
 <center><table class="webtop" width="98%">
 <tbody><tr><th width="60%"><img src="FqAAvKCaMQzZukgjAcp8XX3W7Z_K.png" name="banner" border="0"><br><font size="2" color="#FFA07A"><font style="vertical-align: inherit;">本网站信息学奥赛一本通复制而来</font></font></th>
 <th width="15%" align="left"><font style="vertical-align: inherit;">
