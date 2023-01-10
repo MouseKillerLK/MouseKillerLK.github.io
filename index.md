@@ -12,8 +12,10 @@
 <link type="text/css" rel="stylesheet" href="sh_style.css">
 <script type="text/javascript" src="js/sh_main2.js"></script>
 
- mc模组下载mcbbs.net
- 基岩版拓展包klpbbs.com
+ mc模组下载https://mcbbs.net
+ 
+ 基岩版拓展包https://klpbbs.com
+ 
    请自行探索
    
 <center><table class="webtop" width="98%">
