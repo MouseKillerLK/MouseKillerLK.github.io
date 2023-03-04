@@ -1,0 +1,328 @@
+div.article-header {
+	margin: 0;
+}
+
+div.article-header .article-header-logo-bar,
+div.footer-container .article-footer-label {
+	color: #af0103;
+}
+.article-header-logo-bar a {
+	color: #AF0103;
+	text-decoration: none; 
+	display: inline-block; 
+}
+.article-header-logo-bar a img.logo {
+	width: 152px; 
+	vertical-align: bottom;
+}
+div.media-icon {
+	text-align: right;
+	padding-right: 30px;
+	font-size: 21px;
+}
+@media screen and (max-width: 767px) {
+	.button-home {display:none !important;}
+}
+.article-header-logo-bar a i {
+	display: inline-block; 
+	margin-left: 20px; 
+	margin-bottom: 5px; 
+	font-weight: 700;	
+	vertical-align: bottom;
+	font-size: 16px;
+}
+
+div.article-header .article-header-logo-bar label {
+	font-size: 28px;
+	margin-top: 5px;
+}
+
+div.article-header .article-header-blue-thick-bar, 
+div.footer-container .article-footer-blue-thick-bar {
+	width: 100%;
+	height: 5px;
+	font-size: 5px;
+	background-color: #5697d0;
+}
+
+div.article-header .article-header-blue-thin-bar,
+div.footer-container .article-footer-blue-thin-bar {
+	width: 100%;
+	height: 2px;
+	font-size: 2px; 
+	background-color: #5697d0;
+	margin-top: 3px;
+}
+
+div.footer-container .article-footer-blue-thick-bar {
+	margin-top: 3px;
+}
+
+div.footer-container .article-footer-blue-thin-bar {
+	margin-top: 0px;
+}
+
+div.footer-container .article-footer-label {
+	text-align: right;
+	padding: 0 10px;
+	font-size: 15px;
+}
+
+div.footer-container .article-footer-copyright {
+	text-align: center;
+	padding: 10px 10px;
+	font-size: 12px;
+	color: #af0103;
+}
+
+div.kcna-label-eng {
+	font-size: 15px;
+	font-family: Arial, sans-serif;
+}
+
+@media ( min-width : 768px) {
+	div.kcna-label-eng {
+		padding-top: 30px;
+	}
+	div.audio-body audio {
+		width:30%;
+		height: 10px;
+	}
+}
+ul#lang_bar li a.ru {
+	font-family: Helvetica, Arial;
+}
+
+ul#lang_bar.nav-pills>li+li,
+ul#zoom_bar.nav-pills>li+li {
+	margin-left: 0px;
+}
+
+@media ( min-width : 420px) {
+	ul#lang_bar{
+		font-size: 15px;
+		float: right;
+	}
+}
+
+@media ( max-width : 419px) {
+	ul#lang_bar {
+		font-size: 12px;
+		float: right;
+	}
+}
+
+ul#zoom_bar {
+	position: fixed;
+    bottom: 120px;
+    right: 10px;
+}
+ul#zoom_bar li{
+	float:none;
+	margin-top: 10px;
+	text-align:center;
+}
+ul#lang_bar.nav>li>a
+{
+	padding: 2px 4px;
+}
+ul#zoom_bar.nav>li>a{
+	padding: 2px;
+	cursor: pointer;
+}
+ul#zoom_bar i {
+	font-size: 18px;
+	color: #3C556E;
+	border:1px solid #3C556E;
+	border-radius:50%;
+	background-color: transparent;
+	width: 30px;
+	height: 30px;
+	padding-top: 6px;
+}
+.lang-bar a {
+	color: #638BB2;
+	text-align: center;
+	font-weight: bold;
+}
+.lang-bar a.active {
+	color: #E287A0;
+}
+.lang-bar a.ru {
+	font-family: Helvetica, Arial;
+}
+.lang-bar {
+	text-align: right;
+	line-height:35px;
+	margin-right: 15px;
+	font-size: 13px;
+}
+div.article-content-title {
+	color: #0c5396;
+	padding: 10px 20px;
+	text-align: center; 
+	font-size: 25px;
+}
+.language-bar {
+	padding-top: 50px;
+	text-align:right !important;
+	font-size: 13px;
+}
+div.article-main-title {
+	margin-bottom: 10px; margin-top:10px;
+}
+div.article-sub-title {
+	font-size: 0.95em;
+}
+div.work-title {
+	margin-bottom: 5px;
+	font-size: 14px;
+	color: red;
+	font-weight: bold;
+}
+.article-header .top-button-bar {
+	margin: -20px 0 0 25px; 
+	display: block;
+}
+
+.article-header .top-button-bar a {
+	display: inline-block; 
+	padding: 2px 8px; 
+	color: #09539C;
+	text-decoration: none; 
+	font-weight: bold;
+}
+@media ( max-width : 767px) {
+	.article-header .top-button-bar {
+		margin-top: 0; 
+		text-align: right; 
+	}
+	div.audio-body audio {
+		width:50%;
+		height: 10px;
+	}
+}
+
+.article-content-title h1, 
+.article-content-title h2, 
+.article-content-title h3, 
+.article-content-title h4, 
+.article-content-title h5 {
+	/*display: inline-block; */
+}
+ 
+.article-media-link {
+	float: right; 
+	margin: 10px 25px; 
+}
+.article-media-link a.fancybox {
+	color: #FE0000;
+	text-decoration: none; 
+	font-weight: 700; 
+	font-size: 14px; 
+}
+.article-media-link span {
+	color: #FE0000;
+	font-weight: 700; 
+	font-size: 14px; 
+}
+
+div.article-content-body {
+	margin: 5px 30px;
+	min-height: 200px;
+	text-align: center;
+	font-size: 16px;
+	line-height: 25px;
+	color: black;
+}
+div.audio-body {
+	margin: 0 0 20px 0;
+	text-align: center;
+	
+}
+div.audio-body audio {
+	height:30px;
+}
+div.article-content-body .content-wrapper {
+	display: inline-block;
+	text-align: justify; 
+}
+
+.image-wrapper,
+.video-wrapper {
+	text-align: center;
+	margin: 50px 20px;
+}
+.image-wrapper>a {
+	display: inline-block; 
+}
+.image-wrapper img.image {
+	width: 450px;
+	max-width: 100%;
+	border: 2px solid #707070;
+}
+.image-wrapper img.image.special {
+	width: 100%;
+	max-width: 675px;
+	border: 3px solid #af0103;
+}
+@media ( max-width : 480px) {
+	.image-wrapper img.image {
+		/*width: 90%;*/
+		height: auto;
+	}
+	.video-wrapper video {
+		width: 90%;
+		height: auto;
+	}
+	div.audio-body audio {
+		width:90%;
+		height: 10px;
+	}
+	div.article-content-body{margin: 5px 16px;}
+}
+div#page_control .pagination {
+    text-align: center;
+}
+div#page_control .pagination a.ctrl {
+    width: 26px;
+    height: 24px;
+}
+
+div#page_control .pagination .prev-page {
+    background: url(../img/category/prev-page-btn.png) center 50% no-repeat;
+}
+div#page_control .pagination .next-page {
+    background: url(../img/category/next-page-btn.png) center 50% no-repeat;
+}
+div#page_control .pagination a {
+    border: none;
+}
+div#page_control .pagination a.gist-btn {
+	padding-top: 3px;
+}
+div#page_control .pagination .page-block {
+	border: 1px solid #154678; 
+	padding: 0 8px; 
+	display: inline-block; 
+}
+.fancybox-prev span{
+	left: -20% !important;
+}
+.fancybox-next span{
+	right: -20% !important;
+}
+.fancybox-nav span {
+	visibility: visible !important;
+}
+.publish-time {
+    color: #f37d7d;
+    font-size: 13px;
+}
+@media screen and (max-width: 480px) {
+	ul#zoom_bar {right: 0px;} 
+	div.article-content-title {padding: 10px 10px;font-size: 20px;}
+	div.media-icon .fa {font-size: 17px;}
+	div.article-content-body {font-size: 14px;}
+	div.work-title {font-size: 12px;}
+}
